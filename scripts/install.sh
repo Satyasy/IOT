@@ -1,4 +1,4 @@
 #!/bin/bash
-cd /home/ubuntu/testcode
+cd /home/ubuntu
 npm install
 
